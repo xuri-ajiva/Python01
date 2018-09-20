@@ -4,7 +4,7 @@ from sys import *
 
 
 mfx =1000
-mfy=70
+mfy=700
 
 
 class Malflaeche(object):
